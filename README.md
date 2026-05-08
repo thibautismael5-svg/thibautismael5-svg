@@ -26,4 +26,4 @@
 - ✅ DataCamp — Understanding Data Science
 
 ## 📫 Contact
-📧 thibautismael60@gmail.com
+📧 thibautismael5@gmail.com
